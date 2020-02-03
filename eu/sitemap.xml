@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://urumeaberri-elkartea.github.io/eu/blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://urumeaberri-elkartea.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://urumeaberri-elkartea.github.io/eu/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://urumeaberri-elkartea.github.io/eu/blog/installation/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urumeaberri-elkartea.github.io/eu/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://urumeaberri-elkartea.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://urumeaberri-elkartea.github.io/eu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-1/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-2/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-3/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-4/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-5/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urumeaberri-elkartea.github.io/eu/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://urumeaberri-elkartea.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://urumeaberri-elkartea.github.io/eu/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://urumeaberri-elkartea.github.io/eu/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://urumeaberri-elkartea.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://urumeaberri-elkartea.github.io/eu/tags/"
+                />
+  </url>
+  
+</urlset>
