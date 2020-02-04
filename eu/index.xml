@@ -6,63 +6,27 @@
     <description>Recent content on Urumea Berri G.K.E.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>eu-ES</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://urumeaberri-elkartea.github.io/eu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>https://urumeaberri-elkartea.github.io/eu/blog/installation/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      <title>Izen-emate epea irekita!</title>
+      <link>https://urumeaberri-elkartea.github.io/eu/blog/izenematea-irekia/</link>
+      <pubDate>Thu, 30 Jan 2020 12:00:00 +0100</pubDate>
       
-      <guid>https://urumeaberri-elkartea.github.io/eu/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+      <guid>https://urumeaberri-elkartea.github.io/eu/blog/izenematea-irekia/</guid>
+      <description>Azken asteetan badirudi ahoz-ahokoak eragina izan duela eta pertsona asko interesatu da guztiontzako den proiektu polit honetan.</description>
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
-      <link>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-1/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <title>Resumen reunión 17/01/2020</title>
+      <link>https://urumeaberri-elkartea.github.io/eu/blog/bilera-17012020/</link>
+      <pubDate>Sat, 18 Jan 2020 12:52:36 +0100</pubDate>
       
-      <guid>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-1/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-2/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-2/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-3/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-3/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-4/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-4/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-5/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://urumeaberri-elkartea.github.io/eu/blog/simple-blog-post-5/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://urumeaberri-elkartea.github.io/eu/blog/bilera-17012020/</guid>
+      <description>En la reunión mantenida en la tarde de 17 de Enero se adoptaron los siguientes pasos a tomar para alcanzar el objetivo de tener una nueva sociedad gastronómica en Astigarraga:</description>
     </item>
     
   </channel>
