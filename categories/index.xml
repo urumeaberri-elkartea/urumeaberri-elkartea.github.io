@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Urumea Berri G.K.E.</title>
-    <link>https://urumeaberri-elkartea.github.io/categories/</link>
+    <link>https://www.urumeaberrigke.org/categories/</link>
     <description>Recent content in Categories on Urumea Berri G.K.E.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     
-	<atom:link href="https://urumeaberri-elkartea.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.urumeaberrigke.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
