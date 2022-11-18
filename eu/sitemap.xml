@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.urumeaberrigke.org/eu/blog/</loc>
     <lastmod>2020-02-11T10:00:00+01:00</lastmod>
@@ -15,14 +14,10 @@
                 hreflang="eu"
                 href="https://www.urumeaberrigke.org/eu/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.urumeaberrigke.org/eu/blog/bazkide-batzarra/</loc>
     <lastmod>2020-02-11T10:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.urumeaberrigke.org/eu/</loc>
     <lastmod>2020-02-11T10:00:00+01:00</lastmod>
     <xhtml:link
@@ -35,19 +30,13 @@
                 hreflang="eu"
                 href="https://www.urumeaberrigke.org/eu/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.urumeaberrigke.org/eu/blog/izenematea-irekia/</loc>
     <lastmod>2020-01-30T12:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.urumeaberrigke.org/eu/blog/bilera-17012020/</loc>
     <lastmod>2020-01-18T12:52:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.urumeaberrigke.org/eu/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -59,9 +48,7 @@
                 hreflang="eu"
                 href="https://www.urumeaberrigke.org/eu/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.urumeaberrigke.org/eu/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -74,5 +61,4 @@
                 href="https://www.urumeaberrigke.org/eu/tags/"
                 />
   </url>
-  
 </urlset>

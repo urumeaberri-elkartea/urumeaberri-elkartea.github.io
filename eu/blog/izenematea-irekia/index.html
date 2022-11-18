@@ -11,7 +11,7 @@
 		content="Bazkide egiteko izen-emate epea zabalik da">
 	
 	<meta name="author" content="Urumea Berri Gastronomi Kultur Elkartea">
-	<meta name="generator" content="Hugo 0.79.0" />
+	<meta name="generator" content="Hugo 0.105.0">
 
 	<!-- plugins -->
 	
@@ -37,8 +37,18 @@
 	<link rel="icon" href="https://www.urumeaberrigke.org/images/favicon.ico " type="image/x-icon">
 	<link rel="shortcut icon" href="https://www.urumeaberrigke.org/images/favicon.svg " type="image/svg+xml">
 	<link rel="icon" href="https://www.urumeaberrigke.org/images/favicon.svg " type="image/svg+xml">
+
 	
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-0SKCEDZ3Q0"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-0SKCEDZ3Q0');
+	</script>
 </head>
+
 
 <body id="body" data-spy="scroll" data-target=".navbar" data-offset="55">
   <div id="content">
@@ -282,7 +292,7 @@
 </footer>
 <!-- /footer -->
 
-<!-- Google Map API -->
+<!-- Google Maps API -->
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARvwl-1isAy-EJGeiP0qFE-UDAQxWiKWU"></script>
 
@@ -311,35 +321,6 @@
 <!-- Main Script -->
 
 <script src="https://www.urumeaberrigke.org/js/script.min.js"></script>
-
-<!-- google analitycs -->
-
-<script>
-    (function (i, s, o, g, r, a, m) {
-    i['GoogleAnalyticsObject'] = r;
-    i[r] = i[r] || function () {
-      (i[r].q = i[r].q || []).push(arguments)
-    }, i[r].l = 1 * new Date();
-    a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0];
-    a.async = 1;
-    a.src = g;
-    m.parentNode.insertBefore(a, m)
-  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-  ga('create', 'UA-157809465-1', 'auto');
-  ga('send', 'pageview');
-</script>
-
-<script>
-jQuery(function() {
-  	jQuery.scrollDepth({
-	  elements: ['#body', '#proyecto', '#local', '#cuotas', '#socio', '#faq', '#noticias', '#contact'],
-	  percentage: false,
-	  pixelDepth: false,
-	  nonInteraction: false
-	});	
-});
-</script>
 
 
 </body>
