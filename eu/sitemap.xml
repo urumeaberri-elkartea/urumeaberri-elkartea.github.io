@@ -6,12 +6,12 @@
     <lastmod>2020-02-11T10:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
+                hreflang="es-es"
                 href="https://www.urumeaberrigke.org/blog/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eu"
+                hreflang="eu-ES"
                 href="https://www.urumeaberrigke.org/eu/blog/"
                 />
   </url><url>
@@ -22,12 +22,12 @@
     <lastmod>2020-02-11T10:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
+                hreflang="es-es"
                 href="https://www.urumeaberrigke.org/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eu"
+                hreflang="eu-ES"
                 href="https://www.urumeaberrigke.org/eu/"
                 />
   </url><url>
@@ -40,24 +40,24 @@
     <loc>https://www.urumeaberrigke.org/eu/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
+                hreflang="es-es"
                 href="https://www.urumeaberrigke.org/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eu"
+                hreflang="eu-ES"
                 href="https://www.urumeaberrigke.org/eu/categories/"
                 />
   </url><url>
     <loc>https://www.urumeaberrigke.org/eu/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
+                hreflang="es-es"
                 href="https://www.urumeaberrigke.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="eu"
+                hreflang="eu-ES"
                 href="https://www.urumeaberrigke.org/eu/tags/"
                 />
   </url>
